@@ -2,9 +2,9 @@
 <br/>
 👀 I’m interested in HTML!
 <br/>
-🌱 I’m currently learning how to user HTML and JS.
+🌱 I’m currently learning how to use HTML and JS.
 <br/>
-💞️ I’m looking to collaborate fun ames websites!
+💞️ I’m looking to collaborate fun games websites!
 <br/>
 📫 Email me at liam118paw@gmail.com!
 <br/>
