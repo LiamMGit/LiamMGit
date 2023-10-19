@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liamm-mtcbs&label=Profile%20views&color=0e75b6&style=flat" alt="liamm-mtcbs" /> </p>
 
-- 🔭 I’m currently working on [A website with my friend!](https://github.com/Olivem1234567/olivem1234567.github.io)
+- 🔭 I’m currently working on [a website with](https://github.com/Olivem1234567/olivem1234567.github.io)
 
 - 🌱 I’m currently learning **HTML, and CSS**
 
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **(Leave a issue on this)**
+- 📫 How to reach me (Leave a issue on this)
 
-- ⚡ Fun fact **I love coding! (No Duh)**
+- ⚡ Fun fact : I love coding! **(No Duh)**
 
 
 <h3 align="left">Languages and Tools:</h3>
