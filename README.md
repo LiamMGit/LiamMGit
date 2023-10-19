@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Ollie</h1>
 <h3 align="center">A passionate student from PA.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liamm-mtcbs&label=Profile%20views&color=0e75b6&style=flat" alt="liamm-mtcbs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=olivem1234567&label=Profile%20views&color=0e75b6&style=flat" alt="olivem1234567" /> </p>
 
 - 🔭 I’m currently working on a [ website ](https://github.com/Olivem1234567/olivem1234567.github.io)
 
