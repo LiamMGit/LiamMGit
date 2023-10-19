@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LiamM</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate student from PA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liamm-mtcbs&label=Profile%20views&color=0e75b6&style=flat" alt="liamm-mtcbs" /> </p>
 
