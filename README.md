@@ -32,7 +32,7 @@
 <h3 align="left">My Orginizations:</h3>
 <p align="left">
 <a href="https://github.com/MoonRecTeam" target="blank"><img align="center" src="/images/moonrec.png" alt="MoonRec" height="40" width="40" /></a>
-  <a href="https://github.com/](https://github.com/WeAreWebDevs" target="blank"><img align="center" src="/images/group1.jpg" alt="WeAreWebDevs" height="40" width="40" /></a>
+  <a href="https://github.com/WeAreWebDevs" target="blank"><img align="center" src="/images/group1.jpg" alt="WeAreWebDevs" height="40" width="40" /></a>
 </p>
 
 ![LiamM's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamM-MTCBs&show_icons=true&theme=radical)
