@@ -35,6 +35,6 @@
   <a href="https://github.com/WeAreWebDevs" target="blank"><img align="center" src="/images/group1.jpg" alt="WeAreWebDevs" height="40" width="40" /></a>
 </p>
 
-![LiamM's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamM-MTCBs&show_icons=true&theme=radical)
+![LiamM's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamMGit&show_icons=true&theme=radical)
 </br>
-![LiamM's GitHub stats](https://api.githubtrends.io/user/svg/LiamM-MTCBs/langs?time_range=one_year&include_private=True&compact=True&theme=synthwaves)
+![LiamM's GitHub stats](https://api.githubtrends.io/user/svg/LiamMGit/langs?time_range=one_year&include_private=True&compact=True&theme=synthwaves)
